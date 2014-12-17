@@ -1,0 +1,523 @@
+Tweibo_webView
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView normal i386
+cLd /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView normal x86_64
+cCreateUniversalBinary /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView normal i386\ x86_64
+cCopyStringsFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings weibo_webView/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app /Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets
+cProcessInfoPlistFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Info.plist /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist
+cGenerateDSYMFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView
+cTouch /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app
+t1418820416
+s272
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM
+t2
+s0
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Info.plist
+t1418820416
+s991
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/PkgInfo
+t1418820416
+s8
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings
+t1418820415
+s42
+
+N/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView
+t1418820415
+s56812
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o
+t1418820414
+s64084
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o
+t1418820414
+s52692
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o
+t1418820414
+s3520
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView
+t1418820415
+s23364
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView.LinkFileList
+c0000000054917B3B000000000000019C
+t1418820411
+s412
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o
+t1418820415
+s70652
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o
+t1418820414
+s57852
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o
+t1418820415
+s3968
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView
+t1418820415
+s28140
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView.LinkFileList
+c0000000054917B3B00000000000001A2
+t1418820411
+s418
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_dependencies.txt
+t1418820416
+s351
+
+N/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_generated_info.plist
+t1418820416
+s525
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets
+c00000000549176470000000000000088
+t1418819143
+s136
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m
+c000000005491779C0000000000000921
+t1418819484
+s2337
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m
+c000000005491792900000000000005BA
+t1418819881
+s1466
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/en.lproj/InfoPlist.strings
+c0000000054917647000000000000002D
+t1418819143
+s45
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m
+c00000000549176470000000000000155
+t1418819143
+s341
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist
+c0000000054917647000000000000048B
+t1418819143
+s1163
+
+N/Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch
+c00000000549176470000000000000158
+t1418819143
+s344
+
+N/var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch
+t1418820414
+s116960
+
+N/var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch
+t1418820413
+s116228
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8cbfc1bbb241ba41^718de7bbb241ba41^---0#1#1#--18"Check dependencies36"B4D7869F-6C41-4ADE-B83D-B567AAF4A964-
+
+CCompileAssetCatalog /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app /Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets
+s440513215.362511
+e440513216.731069
+r1
+xCompileAssetCatalog
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/LaunchImage-700-568h@2x.png
+o/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Assets.car
+o/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/weibo_webView.app [1mweibo_webView/Images.xcassets[0m113"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/weibo_webView.app [1mweibo_webView/Images.xcassets[0maddf5cbfb241ba41^c139bbc0b241ba41^-379"/* com.apple.actool.compilation-results *//Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/LaunchImage-700-568h@2x.png/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Assets.car/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@69"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets/0000000000000000^1144"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/weibo_webView.app [1mweibo_webView/Images.xcassets[0m    cd /Volumes/IOS2/IOS/weibo_webView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app /Volumes/IOS2/IOS/weibo_webView/weibo_webView/Images.xcassets36"B66237AE-D0FD-41C4-B0E4-1A9BEC99298E-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513214.685617
+e440513214.779656
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.h
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m228"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o [1mweibo_webView/LXAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa9cafbeb241ba41^da00c8beb241ba41^---0#0#1#-19%DVTDocumentLocation2@68"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m0000000000000000^3650"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o [1mweibo_webView/LXAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/i386 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o36"271A77B5-3CC6-4469-BBF2-F6804ACEE60F-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513214.520406
+e440513214.685350
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m242"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o [1mweibo_webView/LXMainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler095285beb241ba41^a0a9afbeb241ba41^---0#0#1#-19%DVTDocumentLocation2@75"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m0000000000000000^3692"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o [1mweibo_webView/LXMainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/i386 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o36"371093E6-ACC4-4C90-9829-8CDA7F2FE85F-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513214.780538
+e440513214.830204
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m210"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o [1mweibo_webView/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd4eec7beb241ba41^0fbad4beb241ba41^---0#0#1#-19%DVTDocumentLocation2@59"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m0000000000000000^3596"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o [1mweibo_webView/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/i386 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o36"FFD0B92F-07F5-49F1-AB75-002A5D573F37-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513214.935252
+e440513215.030134
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.h
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m232"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o [1mweibo_webView/LXAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf183efbeb241ba41^a2ee07bfb241ba41^---0#0#1#-19%DVTDocumentLocation2@68"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m0000000000000000^3664"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o [1mweibo_webView/LXAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/x86_64 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o36"C8BA608A-7D7B-4D3E-BE67-81BA4C15E82E-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513214.830467
+e440513214.934971
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m246"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o [1mweibo_webView/LXMainViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler2db3d4beb241ba41^8594efbeb241ba41^---0#0#1#-19%DVTDocumentLocation2@75"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m0000000000000000^3706"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o [1mweibo_webView/LXMainViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/x86_64 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXMainViewController.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o36"2EF4450F-9813-4E06-B31D-4A276FC4BD5C-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCompileC build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513215.030401
+e440513215.083493
+r1
+xCompileC
+xbuild/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/LXAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m214"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o [1mweibo_webView/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler11e107bfb241ba41^1fa215bfb241ba41^---0#0#1#-19%DVTDocumentLocation2@59"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m0000000000000000^3610"[1mCompileC[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o [1mweibo_webView/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/x86_64 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -include /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch -MMD -MT dependencies -MF /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.dia -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/main.m -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o36"78C6032B-3F95-46B3-BA5A-2E4044C295AB-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCopyStringsFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings weibo_webView/en.lproj/InfoPlist.strings
+s440513215.360491
+e440513215.362352
+r1
+xCopyStringsFile
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings
+xweibo_webView/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy weibo_webView/en.lproj/InfoPlist.strings139"[1mCopyStringsFile[0m build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings weibo_webView/en.lproj/InfoPlist.strings89605cbfb241ba41^04e75cbfb241ba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/en.lproj/InfoPlist.strings0000000000000000^612"[1mCopyStringsFile[0m build/Release-iphonesimulator/weibo_webView.app/en.lproj/InfoPlist.strings weibo_webView/en.lproj/InfoPlist.strings    cd /Volumes/IOS2/IOS/weibo_webView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/en.lproj -- weibo_webView/en.lproj/InfoPlist.strings36"0BC2AEAF-27B2-4025-8880-652F2A130EE9-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CCreateUniversalBinary /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView normal i386\ x86_64
+s440513215.349739
+e440513215.359243
+r1
+xCreateUniversalBinary
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Create universal binary /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView119"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/weibo_webView.app/weibo_webView[0m normal i386\ x86_64c2a359bfb241ba41^53045cbfb241ba41^---0#0#1#-19%DVTDocumentLocation2@100"file:///Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView00346c2adeffdf42^849"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/weibo_webView.app/weibo_webView[0m normal i386\ x86_64    cd /Volumes/IOS2/IOS/weibo_webView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView -output /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView36"D919DF1B-A96C-440C-AF52-AC995B5C9A51-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CGenerateDSYMFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView
+s440513216.736723
+e440513216.779376
+r1
+xGenerateDSYMFile
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generate /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM147"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/weibo_webView.app.dSYM[0m build/Release-iphonesimulator/weibo_webView.app/weibo_webView64aebcc0b241ba41^4697c7c0b241ba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM00346c2adeffdf42^679"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/weibo_webView.app.dSYM[0m build/Release-iphonesimulator/weibo_webView.app/weibo_webView    cd /Volumes/IOS2/IOS/weibo_webView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/weibo_webView -o /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app.dSYM36"EDD491F2-3CCE-43E1-9C62-B37E595964DA-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CLd /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView normal i386
+s440513215.085374
+e440513215.144137
+r1
+xLd
+x/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView
+xnormal
+xi386
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXMainViewController.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/LXAppDelegate.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Link /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView126"[1mLd[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView normal i386faef15bfb241ba41^292425bfb241ba41^---0#0#1#--1462"[1mLd[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView normal i386    cd /Volumes/IOS2/IOS/weibo_webView    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -filelist /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView_dependency_info.dat -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/i386/weibo_webView36"9AD81A7A-D44E-42A8-801F-987CBC9720BE-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CLd /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView normal x86_64
+s440513215.144704
+e440513215.347496
+r1
+xLd
+x/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView
+xnormal
+xx86_64
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXMainViewController.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/LXAppDelegate.o
+d/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView130"[1mLd[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView normal x86_64a81e25bfb241ba41^4b0559bfb241ba41^---0#0#1#--1474"[1mLd[0m build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView normal x86_64    cd /Volumes/IOS2/IOS/weibo_webView    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator -filelist /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView_dependency_info.dat -o /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/Objects-normal/x86_64/weibo_webView36"033C0C53-BD5E-4F4E-9618-DD88130B2659-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CProcessInfoPlistFile /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Info.plist /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist
+s440513216.732181
+e440513216.735826
+r1
+xProcessInfoPlistFile
+x/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Info.plist
+x/Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist134"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/weibo_webView.app/Info.plist [1mweibo_webView/weibo_webView-Info.plist[0m158fbbc0b241ba41^946dbcc0b241ba41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist0000000000000000^899"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/weibo_webView.app/Info.plist [1mweibo_webView/weibo_webView-Info.plist[0m    cd /Volumes/IOS2/IOS/weibo_webView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Info.plist -genpkginfo /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/assetcatalog_generated_info.plist -o /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app/Info.plist36"364685EA-2591-4FD0-897D-F999A3570DAD-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CProcessPCH /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513213.372762
+e440513214.518907
+r1
+xProcessPCH
+x/var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch
+xweibo_webView/weibo_webView-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile weibo_webView/weibo_webView-Prefix.pch324"[1mProcessPCH[0m /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler34845fbdb241ba41^e2ea84beb241ba41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch0000000000000000^3737"[1mProcessPCH[0m /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/x86_64 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator --serialize-diagnostics /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.d -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch -o /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-axotkmzzpunhleabdvsdoirkqrmr/weibo_webView-Prefix.pch.pch36"E0A2B4BA-1AD5-4ACE-A475-D5548A37AF8B-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CProcessPCH /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s440513211.901879
+e440513213.372356
+r1
+xProcessPCH
+x/var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch
+xweibo_webView/weibo_webView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile weibo_webView/weibo_webView-Prefix.pch322"[1mProcessPCH[0m /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b12e7bbb241ba41^118c5fbdb241ba41^---0#0#1#-19%DVTDocumentLocation2@77"file:///Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch0000000000000000^3731"[1mProcessPCH[0m /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch weibo_webView/weibo_webView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/IOS2/IOS/weibo_webView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-generated-files.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-own-target-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-all-target-headers.hmap -iquote /Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/weibo_webView-project-headers.hmap -I/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources/i386 -I/Volumes/IOS2/IOS/weibo_webView/build/weibo_webView.build/Release-iphonesimulator/weibo_webView.build/DerivedSources -F/Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator --serialize-diagnostics /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.d -c /Volumes/IOS2/IOS/weibo_webView/weibo_webView/weibo_webView-Prefix.pch -o /var/folders/w3/3mhh30mx18d4jny14mswmzkm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/weibo_webView-Prefix-bmvdilezjzmkgladchgaineqwdce/weibo_webView-Prefix.pch.pch36"14194840-A72D-4B3F-B22B-F1F158028DA3-
+bB851CAAB-B7BD-4FAE-9213-5F9963FBF705
+
+CTouch /Volumes/IOS2/IOS/weibo_webView/build/Release-iphonesimulator/weibo_webView.app
+r0
+

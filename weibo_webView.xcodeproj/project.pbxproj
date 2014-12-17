@@ -1,0 +1,459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F130AC21A41ADC700E7BDCB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130AC11A41ADC700E7BDCB /* Foundation.framework */; };
+		0F130AC41A41ADC700E7BDCB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130AC31A41ADC700E7BDCB /* CoreGraphics.framework */; };
+		0F130AC61A41ADC700E7BDCB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130AC51A41ADC700E7BDCB /* UIKit.framework */; };
+		0F130ACC1A41ADC700E7BDCB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F130ACA1A41ADC700E7BDCB /* InfoPlist.strings */; };
+		0F130ACE1A41ADC700E7BDCB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F130ACD1A41ADC700E7BDCB /* main.m */; };
+		0F130AD21A41ADC700E7BDCB /* LXAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F130AD11A41ADC700E7BDCB /* LXAppDelegate.m */; };
+		0F130AD41A41ADC700E7BDCB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F130AD31A41ADC700E7BDCB /* Images.xcassets */; };
+		0F130ADB1A41ADC800E7BDCB /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130ADA1A41ADC800E7BDCB /* XCTest.framework */; };
+		0F130ADC1A41ADC800E7BDCB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130AC11A41ADC700E7BDCB /* Foundation.framework */; };
+		0F130ADD1A41ADC800E7BDCB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F130AC51A41ADC700E7BDCB /* UIKit.framework */; };
+		0F130AE51A41ADC800E7BDCB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F130AE31A41ADC800E7BDCB /* InfoPlist.strings */; };
+		0F130AE71A41ADC800E7BDCB /* weibo_webViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F130AE61A41ADC800E7BDCB /* weibo_webViewTests.m */; };
+		0F130AF21A41ADE300E7BDCB /* LXMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F130AF11A41ADE300E7BDCB /* LXMainViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0F130ADE1A41ADC800E7BDCB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0F130AB61A41ADC700E7BDCB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0F130ABD1A41ADC700E7BDCB;
+			remoteInfo = weibo_webView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0F130ABE1A41ADC700E7BDCB /* weibo_webView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = weibo_webView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F130AC11A41ADC700E7BDCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0F130AC31A41ADC700E7BDCB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0F130AC51A41ADC700E7BDCB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0F130AC91A41ADC700E7BDCB /* weibo_webView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "weibo_webView-Info.plist"; sourceTree = "<group>"; };
+		0F130ACB1A41ADC700E7BDCB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0F130ACD1A41ADC700E7BDCB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0F130ACF1A41ADC700E7BDCB /* weibo_webView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "weibo_webView-Prefix.pch"; sourceTree = "<group>"; };
+		0F130AD01A41ADC700E7BDCB /* LXAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LXAppDelegate.h; sourceTree = "<group>"; };
+		0F130AD11A41ADC700E7BDCB /* LXAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LXAppDelegate.m; sourceTree = "<group>"; };
+		0F130AD31A41ADC700E7BDCB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		0F130AD91A41ADC800E7BDCB /* weibo_webViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weibo_webViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F130ADA1A41ADC800E7BDCB /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		0F130AE21A41ADC800E7BDCB /* weibo_webViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "weibo_webViewTests-Info.plist"; sourceTree = "<group>"; };
+		0F130AE41A41ADC800E7BDCB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0F130AE61A41ADC800E7BDCB /* weibo_webViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = weibo_webViewTests.m; sourceTree = "<group>"; };
+		0F130AF01A41ADE300E7BDCB /* LXMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LXMainViewController.h; sourceTree = "<group>"; };
+		0F130AF11A41ADE300E7BDCB /* LXMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LXMainViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0F130ABB1A41ADC700E7BDCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130AC41A41ADC700E7BDCB /* CoreGraphics.framework in Frameworks */,
+				0F130AC61A41ADC700E7BDCB /* UIKit.framework in Frameworks */,
+				0F130AC21A41ADC700E7BDCB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0F130AD61A41ADC800E7BDCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130ADB1A41ADC800E7BDCB /* XCTest.framework in Frameworks */,
+				0F130ADD1A41ADC800E7BDCB /* UIKit.framework in Frameworks */,
+				0F130ADC1A41ADC800E7BDCB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F130AB51A41ADC700E7BDCB = {
+			isa = PBXGroup;
+			children = (
+				0F130AC71A41ADC700E7BDCB /* weibo_webView */,
+				0F130AE01A41ADC800E7BDCB /* weibo_webViewTests */,
+				0F130AC01A41ADC700E7BDCB /* Frameworks */,
+				0F130ABF1A41ADC700E7BDCB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0F130ABF1A41ADC700E7BDCB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0F130ABE1A41ADC700E7BDCB /* weibo_webView.app */,
+				0F130AD91A41ADC800E7BDCB /* weibo_webViewTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0F130AC01A41ADC700E7BDCB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0F130AC11A41ADC700E7BDCB /* Foundation.framework */,
+				0F130AC31A41ADC700E7BDCB /* CoreGraphics.framework */,
+				0F130AC51A41ADC700E7BDCB /* UIKit.framework */,
+				0F130ADA1A41ADC800E7BDCB /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0F130AC71A41ADC700E7BDCB /* weibo_webView */ = {
+			isa = PBXGroup;
+			children = (
+				0F130AF01A41ADE300E7BDCB /* LXMainViewController.h */,
+				0F130AF11A41ADE300E7BDCB /* LXMainViewController.m */,
+				0F130AD31A41ADC700E7BDCB /* Images.xcassets */,
+				0F130AC81A41ADC700E7BDCB /* Supporting Files */,
+			);
+			path = weibo_webView;
+			sourceTree = "<group>";
+		};
+		0F130AC81A41ADC700E7BDCB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F130AD01A41ADC700E7BDCB /* LXAppDelegate.h */,
+				0F130AD11A41ADC700E7BDCB /* LXAppDelegate.m */,
+				0F130AC91A41ADC700E7BDCB /* weibo_webView-Info.plist */,
+				0F130ACA1A41ADC700E7BDCB /* InfoPlist.strings */,
+				0F130ACD1A41ADC700E7BDCB /* main.m */,
+				0F130ACF1A41ADC700E7BDCB /* weibo_webView-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0F130AE01A41ADC800E7BDCB /* weibo_webViewTests */ = {
+			isa = PBXGroup;
+			children = (
+				0F130AE61A41ADC800E7BDCB /* weibo_webViewTests.m */,
+				0F130AE11A41ADC800E7BDCB /* Supporting Files */,
+			);
+			path = weibo_webViewTests;
+			sourceTree = "<group>";
+		};
+		0F130AE11A41ADC800E7BDCB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0F130AE21A41ADC800E7BDCB /* weibo_webViewTests-Info.plist */,
+				0F130AE31A41ADC800E7BDCB /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0F130ABD1A41ADC700E7BDCB /* weibo_webView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F130AEA1A41ADC800E7BDCB /* Build configuration list for PBXNativeTarget "weibo_webView" */;
+			buildPhases = (
+				0F130ABA1A41ADC700E7BDCB /* Sources */,
+				0F130ABB1A41ADC700E7BDCB /* Frameworks */,
+				0F130ABC1A41ADC700E7BDCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = weibo_webView;
+			productName = weibo_webView;
+			productReference = 0F130ABE1A41ADC700E7BDCB /* weibo_webView.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0F130AD81A41ADC800E7BDCB /* weibo_webViewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F130AED1A41ADC800E7BDCB /* Build configuration list for PBXNativeTarget "weibo_webViewTests" */;
+			buildPhases = (
+				0F130AD51A41ADC800E7BDCB /* Sources */,
+				0F130AD61A41ADC800E7BDCB /* Frameworks */,
+				0F130AD71A41ADC800E7BDCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0F130ADF1A41ADC800E7BDCB /* PBXTargetDependency */,
+			);
+			name = weibo_webViewTests;
+			productName = weibo_webViewTests;
+			productReference = 0F130AD91A41ADC800E7BDCB /* weibo_webViewTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0F130AB61A41ADC700E7BDCB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = LX;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = xinliu;
+				TargetAttributes = {
+					0F130AD81A41ADC800E7BDCB = {
+						TestTargetID = 0F130ABD1A41ADC700E7BDCB;
+					};
+				};
+			};
+			buildConfigurationList = 0F130AB91A41ADC700E7BDCB /* Build configuration list for PBXProject "weibo_webView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0F130AB51A41ADC700E7BDCB;
+			productRefGroup = 0F130ABF1A41ADC700E7BDCB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0F130ABD1A41ADC700E7BDCB /* weibo_webView */,
+				0F130AD81A41ADC800E7BDCB /* weibo_webViewTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0F130ABC1A41ADC700E7BDCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130ACC1A41ADC700E7BDCB /* InfoPlist.strings in Resources */,
+				0F130AD41A41ADC700E7BDCB /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0F130AD71A41ADC800E7BDCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130AE51A41ADC800E7BDCB /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0F130ABA1A41ADC700E7BDCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130AF21A41ADE300E7BDCB /* LXMainViewController.m in Sources */,
+				0F130AD21A41ADC700E7BDCB /* LXAppDelegate.m in Sources */,
+				0F130ACE1A41ADC700E7BDCB /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0F130AD51A41ADC800E7BDCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F130AE71A41ADC800E7BDCB /* weibo_webViewTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0F130ADF1A41ADC800E7BDCB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0F130ABD1A41ADC700E7BDCB /* weibo_webView */;
+			targetProxy = 0F130ADE1A41ADC800E7BDCB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0F130ACA1A41ADC700E7BDCB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0F130ACB1A41ADC700E7BDCB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0F130AE31A41ADC800E7BDCB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0F130AE41A41ADC800E7BDCB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0F130AE81A41ADC800E7BDCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0F130AE91A41ADC800E7BDCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0F130AEB1A41ADC800E7BDCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "weibo_webView/weibo_webView-Prefix.pch";
+				INFOPLIST_FILE = "weibo_webView/weibo_webView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0F130AEC1A41ADC800E7BDCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "weibo_webView/weibo_webView-Prefix.pch";
+				INFOPLIST_FILE = "weibo_webView/weibo_webView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		0F130AEE1A41ADC800E7BDCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/weibo_webView.app/weibo_webView";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "weibo_webView/weibo_webView-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "weibo_webViewTests/weibo_webViewTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		0F130AEF1A41ADC800E7BDCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/weibo_webView.app/weibo_webView";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "weibo_webView/weibo_webView-Prefix.pch";
+				INFOPLIST_FILE = "weibo_webViewTests/weibo_webViewTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0F130AB91A41ADC700E7BDCB /* Build configuration list for PBXProject "weibo_webView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F130AE81A41ADC800E7BDCB /* Debug */,
+				0F130AE91A41ADC800E7BDCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0F130AEA1A41ADC800E7BDCB /* Build configuration list for PBXNativeTarget "weibo_webView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F130AEB1A41ADC800E7BDCB /* Debug */,
+				0F130AEC1A41ADC800E7BDCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		0F130AED1A41ADC800E7BDCB /* Build configuration list for PBXNativeTarget "weibo_webViewTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F130AEE1A41ADC800E7BDCB /* Debug */,
+				0F130AEF1A41ADC800E7BDCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0F130AB61A41ADC700E7BDCB /* Project object */;
+}
